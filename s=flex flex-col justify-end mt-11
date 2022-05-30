@@ -1,0 +1,1320 @@
+[33mcommit 5aa99a0e01607f1f67b2011a2da58c2bdc9e0642[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Nov 3 05:16:27 2021 -0700
+
+    terms page added
+
+[33mcommit 92c81781c631dc4935d1063484e0c7052125383e[m
+Merge: bd831ed e6f609c
+Author: User 1 <jabezhm@gmail.com>
+Date:   Sat Oct 30 13:25:52 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp
+
+[33mcommit bd831ed4eb9b282bcca50f0761de4936969edbdf[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Sat Oct 30 13:25:31 2021 +0300
+
+    chore: intuition page (progress)
+
+[33mcommit e6f609c0b091162f1d87b0d71a3cda056bf23578[m
+Merge: 4ad082e 5198cef
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Sat Oct 30 00:05:35 2021 -0700
+
+    Merge pull request #32 from ZerafTechnologies/dev
+    
+    Leader board cypress test and total emissions on each measure tab
+
+[33mcommit 5198cef949f5d5a3397cbc340bbb5b3a55e0a8f8[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Sat Oct 30 10:02:00 2021 -0700
+
+    total emissions on each measure tabs
+
+[33mcommit c2b4362c27ae357ba9e494074c238e9ab8bd5f35[m
+Merge: eca8d2b d239ca2
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Sat Oct 30 09:09:28 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 4ad082ec9943e429e956a213a756242b31cc2842[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Sat Oct 30 09:44:17 2021 +0300
+
+    chore: restyle components
+
+[33mcommit eca8d2b1fc3e863a16f70691e0b81831fd8994f3[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Fri Oct 29 13:28:32 2021 -0700
+
+    finalized leader board tests
+
+[33mcommit 96b64ac3cf2dc2d3e5becbb21410d70c79476262[m
+Merge: 733716f 02ea73c
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Fri Oct 29 10:21:59 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit d239ca2b4b586e230ae21caf98aeac2afe47e1a5[m
+Merge: e393928 b1160f6
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Fri Oct 29 16:47:50 2021 +0300
+
+    Master merge conflict resloved
+
+[33mcommit e39392888dc0a565b0f3dce883efea1365d888f6[m
+Merge: 4319730 02ea73c
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Fri Oct 29 16:39:35 2021 +0300
+
+    merge conflict resolved
+
+[33mcommit b1160f65b5bcebe601f270178a6d983c7954bac9[m
+Merge: 93e1f2b 11b4d93
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Fri Oct 29 16:32:01 2021 +0300
+
+    conflict resolved
+
+[33mcommit 93e1f2b3912fd86c6327f1d40e04b0ba816b4f86[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Fri Oct 29 16:30:39 2021 +0300
+
+    data fetched but not yet properly displayed
+
+[33mcommit 11b4d93d04b596d6ca90d40326a1c3d6cdb837b9[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Fri Oct 29 16:13:05 2021 +0300
+
+    finalized the backend for the index page of the MRV person and added some comments
+
+[33mcommit 02ea73cf22ddcc79118250be208b2ab66dd498c3[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Fri Oct 29 09:34:47 2021 +0300
+
+    chore: ad placement and minor restylings
+
+[33mcommit 4db24f7a17c84d1e5f66c55eba0380a26973c630[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Fri Oct 29 09:08:48 2021 +0300
+
+    chore: add roles field to user document type
+    roles is an array of string identifiers for different user types. we will use them to conditionally render content and protect routes
+
+[33mcommit 1cb4c0e1e735dcd6799a67426e3a70057e9a25e0[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Fri Oct 29 09:01:33 2021 +0300
+
+    chore: make region selectors dropdowns instead of tabs, add file upload input to measurement forms
+
+[33mcommit 733716f077ae8ff9d0043fb8aaa9d996d14269fd[m
+Merge: 041d57a df4d845
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Thu Oct 28 13:58:51 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 14b1e8370b485d01fb9967fdb74f7fdb50a0a247[m
+Merge: 3ed654d 4092acb
+Author: Elyas Demeke <nebiyou.elyas11@gmail.com>
+Date:   Thu Oct 28 17:55:22 2021 +0300
+
+    conflict resolved
+
+[33mcommit 3ed654d5413e213ccc0df3ff997f97845ae2ba4c[m
+Author: Elyas Demeke <nebiyou.elyas11@gmail.com>
+Date:   Thu Oct 28 17:50:52 2021 +0300
+
+    fetch data for classifier store function
+
+[33mcommit 32763937e828483a91415000474ea5b01fccbfba[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Oct 28 14:49:58 2021 +0300
+
+    fix: hide nav dropdowns on route change
+
+[33mcommit 4092acba70375aa62b91423e9f11bdf97fa7bbed[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Thu Oct 28 14:36:52 2021 +0300
+
+    started working on the back end of fetching the measure data
+
+[33mcommit df4d845257f2b00e65879cce6b40762dc79249b6[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Oct 28 10:40:24 2021 +0300
+
+    chore: update leaderboard design
+    move the filters to the right end and place ads on their place
+
+[33mcommit 12a22648fca69ea3757068607c21f04fe9c48394[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Wed Oct 27 17:01:29 2021 +0300
+
+    linked MRV index page with details page
+
+[33mcommit 2ee1988a371b2718e9ded8c174a89ce469d2ee08[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Wed Oct 27 15:51:18 2021 +0300
+
+    added components for the food and shopping
+
+[33mcommit 297d980278f47baf042708da83884bcf7d508ad7[m
+Merge: e1912e9 acdb564
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Wed Oct 27 15:50:33 2021 +0300
+
+    Merge branch 'notificationModule' of github.com:ZerafTechnologies/greencheddar-mvp into notificationModule
+
+[33mcommit e1912e97d7c666a1b768ec65fb4774d79b0a2422[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Wed Oct 27 15:50:28 2021 +0300
+
+    UI for the classifier validation page finished
+
+[33mcommit acdb564f7f9916cdc14599323907f3a5fd52eb60[m
+Merge: 4ebe859 55dce95
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Wed Oct 27 15:33:56 2021 +0300
+
+    Merge branch 'notificationModule' of https://github.com/ZerafTechnologies/greencheddar-mvp into notificationModule
+
+[33mcommit 4ebe859a46f6613711bb1238b598504ad937c34b[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Wed Oct 27 15:32:44 2021 +0300
+
+    finalized the front end of the index page that contains the table
+
+[33mcommit 041d57abda05b0967da46c2d8e60ee3a27d6447a[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Tue Oct 26 15:01:44 2021 -0700
+
+    removed unnecessarly generated files in  cypress
+
+[33mcommit 95cbde3861fd2d29cc6f42ec954c95d0628bd6ea[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Tue Oct 26 14:52:07 2021 -0700
+
+    leader board cypress testing
+
+[33mcommit 55dce959f52f58b3bdf683115728ded95f81d50e[m
+Merge: bf13e61 a37fa68
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Tue Oct 26 17:29:35 2021 +0300
+
+    Merge branch 'notificationModule' of github.com:ZerafTechnologies/greencheddar-mvp into notificationModule
+
+[33mcommit bf13e615cd0af83301eb7d0e0337d31958ae3ccc[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Tue Oct 26 17:29:27 2021 +0300
+
+    first progress on the classifier action page
+
+[33mcommit a37fa6852b05f197b79945ae9ca72add2c523181[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Tue Oct 26 16:37:50 2021 +0300
+
+    started the front end of the MRV table
+
+[33mcommit a54c98c13017df6f1910a54642cb8ac78a1fbc4b[m
+Merge: 9bef140 8ba6c93
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Mon Oct 25 23:24:09 2021 -0700
+
+    Merge pull request #27 from ZerafTechnologies/dev
+    
+    cypress test for shopping and food components
+
+[33mcommit 8ba6c93450fd782b373a7cb589149248d74d83f7[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Mon Oct 25 17:06:48 2021 -0700
+
+    chore:transportation cypress test
+
+[33mcommit 92f27a707e8dd51e8d5feb4be45f211b20c2e853[m
+Merge: 63c03b6 9bef140
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Mon Oct 25 13:48:59 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit e77d3abce5417b6dba55a7124fa4f30f48cc534e[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Mon Oct 25 15:05:59 2021 +0300
+
+    added missing comments for the search and notification functionality
+
+[33mcommit 63c03b64d86704ac2a926d458229c92c79fe23a8[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Sat Oct 23 15:37:29 2021 -0700
+
+    chore:shopping,transportation cypress testing
+
+[33mcommit 1fcd54b863e93d67d4e84fe36c45435219ed177c[m
+Merge: ca1b5cd 442e7a1
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Sat Oct 23 09:28:14 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 3ef5e0a790b790abf0825f7a71cb4b32469bf826[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Sat Oct 23 15:24:30 2021 +0300
+
+    fixed some minor bugs
+
+[33mcommit 9bef140d95e06ea88b067576a33f9b5979d172c0[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Sat Oct 23 14:21:33 2021 +0300
+
+    chore: dashboard home page and leaderboard sections
+
+[33mcommit ca1b5cdb3a7fdeecd519c5de1d4c868c0bab1209[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Fri Oct 22 17:13:51 2021 -0700
+
+    chore:food and household cypress testing
+
+[33mcommit 15b18251a548dc70e749d3770b118a6e6902d617[m
+Merge: 6b85251 c9e7f31
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Fri Oct 22 11:52:40 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 34eb1beceda25a6a00c834239b7368f9ccdd7506[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Fri Oct 22 16:24:07 2021 +0300
+
+    finalized testing for the filtering functionality
+
+[33mcommit 442e7a117be2ac48002f0165699dda34c9e95919[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Fri Oct 22 12:03:31 2021 +0300
+
+    chore: add top 100 and personal tabs in leaderboard page
+
+[33mcommit b655a7f2f47571277a235af0f5624bcb4be5cfba[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Thu Oct 21 16:35:56 2021 +0300
+
+    newness of a product tag test
+
+[33mcommit 00ab96d1294dc408b98e6676d0be73b170b937da[m
+Merge: f8af482 8344421
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Thu Oct 21 15:08:55 2021 +0300
+
+    Merge branch 'notificationModule' of https://github.com/ZerafTechnologies/greencheddar-mvp into notificationModule
+
+[33mcommit f8af482e7f5643f9659f0407fa8fae39f238cfb0[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Thu Oct 21 15:07:26 2021 +0300
+
+    finalized searching fuinctionality and started test for filtering
+
+[33mcommit 83444210aae3d2a397898140069bcd0f8e13fc25[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Thu Oct 21 15:05:07 2021 +0300
+
+    new status shows based on date posted
+
+[33mcommit c9e7f3169b529e0df6c9f6b5bfc1591196a173d9[m
+Merge: 261074a ce0608b
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Thu Oct 21 03:35:06 2021 -0700
+
+    Merge pull request #19 from ZerafTechnologies/dev
+    
+    leaderboard store setup, tiktok icon added
+
+[33mcommit 978308b5e80973f0c11c019597be8706092bb189[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Wed Oct 20 17:14:33 2021 +0300
+
+    started test for search functionality
+
+[33mcommit 261074aaeb23a85bf5527b3ca57b8b0f223a1267[m
+Merge: 225fdae 6754e69
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Oct 20 13:02:38 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into master
+
+[33mcommit 225fdaecd692923a12270ff7aaa134ed343e4982[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Oct 20 13:02:04 2021 +0300
+
+    leaderboard
+
+[33mcommit e021d7fdb3516d9b4c0143cf6d612a60c3756526[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Wed Oct 20 08:53:01 2021 +0300
+
+    update gitignore
+
+[33mcommit e7ac06234454bd642c8eaa751c81dba41025d36e[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Tue Oct 19 16:46:32 2021 +0300
+
+    worked on the category filter functionality
+
+[33mcommit ce0608b74e05f47616af832999a55a10e2760070[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 19 16:37:33 2021 +0300
+
+    bus and train form change
+
+[33mcommit 6754e6915e7ad8177aecea30c5579478c33b9c09[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 19 13:21:55 2021 +0300
+
+    fix: term changes
+
+[33mcommit 96945eb2b77c39559797a2009a4179c38365b4fa[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 19 13:15:17 2021 +0300
+
+    fix: lodash installation fixed
+
+[33mcommit 7bad712955aaa0ad885736c69fcfd965ceba2e58[m
+Merge: 1d5c940 d50db7c
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 19 10:50:18 2021 +0300
+
+    fix:merge conflict
+
+[33mcommit 1d5c940b6f6bda9521aaade8f2c3a980c1d2d765[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 19 10:36:15 2021 +0300
+
+    leaderboard store setup,tiktok icon
+
+[33mcommit d50db7ce5faad782e786f59ab374ca5cb29f7eb1[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 19 10:22:09 2021 +0300
+
+    chore: restyle measure pages, install and setup lodash and lodash-vue
+
+[33mcommit 5f230d433c73eb3de32ae9dd7240567491fe4b81[m
+Merge: ce12f07 f74ca9b
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 19 09:24:30 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit f74ca9b99a716fd9e8276c51a69518af75f90f6e[m
+Merge: c26d3d5 2ad021e
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 19 09:04:44 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp
+
+[33mcommit c26d3d5cf1fdfcf3fe14b66b7dadbf3e96076b35[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 19 09:04:34 2021 +0300
+
+    setup for merge
+
+[33mcommit 2ad021e0764c1dbddf6541f4c9f9eb99e5cffc59[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 18 14:32:26 2021 +0300
+
+    style: restyle leaderboard and measure pages
+
+[33mcommit ce12f074c9deadd362ba4e375111e85ce9729589[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Sat Oct 16 16:23:05 2021 +0300
+
+    test:household cypres test
+
+[33mcommit bc321a02f1c3f0931b3d21c6fff324ca5721c6ad[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Sat Oct 16 15:33:24 2021 +0300
+
+    worked on the filter by carbon credit functionality
+
+[33mcommit 9bff9161281d48678ab16d604f255253b4ef84f0[m
+Merge: 63f7e31 a91b47b
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Sat Oct 16 00:52:50 2021 -0700
+
+    Merge pull request #18 from ZerafTechnologies/dev
+    
+    comments on pages, auth cypress tests
+
+[33mcommit a91b47b0d6bcf01a926c252e518dfa29e1e59869[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Sat Oct 16 10:45:46 2021 +0300
+
+    chore: comments on pages, foget password cypress test
+
+[33mcommit e0648dd7f392772a3b209e2da70b4c4a8335672a[m
+Merge: 94c5563 63f7e31
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Sat Oct 16 08:47:09 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 6b8525109917aa6ad342c80f2000b0eeac90c490[m
+Merge: 94c5563 63f7e31
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Fri Oct 15 14:22:22 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 1eb862600fa70e215ddc6d4d0a18cf4f14ac2060[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Fri Oct 15 17:29:22 2021 +0300
+
+    fixed up the front end of the searched products
+
+[33mcommit 16e46b6f7e2fec634b3f0a3c6e752ba3547e6bbd[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Fri Oct 15 17:28:48 2021 +0300
+
+    finalized the front end of the page that displays the search products
+
+[33mcommit bdabec5ee1e83a8a0a0c43231fb6f4b43aecdec0[m
+Merge: 4562257 dddfab6
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Fri Oct 15 16:51:07 2021 +0300
+
+    Merge branch 'notificationModule' of https://github.com/ZerafTechnologies/greencheddar-mvp into notificationModule
+
+[33mcommit dddfab65a45ac65718ca43748825d0d6f0cf8806[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Fri Oct 15 16:50:09 2021 +0300
+
+    search functionality
+
+[33mcommit 456225791537778ec7992eb452fef7b32afda92b[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Fri Oct 15 16:43:45 2021 +0300
+
+    fixed up the front end of the search functionality
+
+[33mcommit 63f7e311b82af29fd39d98a64f1db28fef2bbdf6[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Fri Oct 15 13:23:25 2021 +0300
+
+    add advertisement section
+
+[33mcommit 23f1341c62b79b32899822397fb9be44a4abd6f9[m
+Merge: 50bcbf7 2106340
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Fri Oct 15 11:32:59 2021 +0300
+
+    Merge branch 'notificationModule' of https://github.com/ZerafTechnologies/greencheddar-mvp into notificationModule
+
+[33mcommit 50bcbf7815322eb57e1a769cfb30905bff63a35c[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Fri Oct 15 11:32:13 2021 +0300
+
+    added some styles to the product displaying page
+
+[33mcommit 94c5563e0a1b2a2b4c42072418abb9f9bd401990[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Oct 14 17:00:28 2021 +0300
+
+    test:cypress test for login,signup
+
+[33mcommit 2106340e72f67defab68e0a454126fcb282a4004[m
+Merge: 3c1d017 5a1ad4b
+Author: Elyas Demeke <46103318+Elyas-Demeke@users.noreply.github.com>
+Date:   Thu Oct 14 15:04:54 2021 +0300
+
+    Merge pull request #17 from ZerafTechnologies/testSetup
+    
+    Test setup
+
+[33mcommit 5a1ad4b24c5c888fb4bae6cf33b47ada9c90af51[m
+Author: Elyas Demeke <nebiyou.elyas11@gmail.com>
+Date:   Thu Oct 14 15:01:55 2021 +0300
+
+    notification navbar test
+
+[33mcommit c65927ce8a55407dc0ec641fe156173f64ac694c[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Oct 14 14:32:14 2021 +0300
+
+    chore: leaderboard ui (nav and partitions)
+
+[33mcommit 3c1d01777c4b38bc0a305142c2d6d7cd75d9ff1e[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Thu Oct 14 13:50:30 2021 +0300
+
+    setup the front end for the search functionality
+
+[33mcommit 4468ccab95f323820d91b31446bc7d91e12a9ad9[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Oct 14 09:41:03 2021 +0300
+
+    chore: add bus and train transportation forms, add form input info sections
+
+[33mcommit 98deaccac94799a339474d7b42046e607d0aaee4[m
+Author: Elyas Demeke <nebiyou.elyas11@gmail.com>
+Date:   Wed Oct 13 16:26:22 2021 +0300
+
+    test setup login
+
+[33mcommit fae9170d7c97c3b42b226ddc368242b6a4ec446e[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Wed Oct 13 11:02:21 2021 +0300
+
+    setup the test enviroment
+
+[33mcommit f15378f72c03be5c7f1cd0c5b665dfed9af221bd[m
+Merge: 660aefb 86eceb7
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Tue Oct 12 16:51:02 2021 +0300
+
+    Merge pull request #16 from ZerafTechnologies/dev
+    
+    Edited jest config to ignore cypress
+
+[33mcommit 6c285d83bdc35269260f8166ec789e1da3ce0e34[m
+Author: Elyas Demeke <nebiyou.elyas11@gmail.com>
+Date:   Tue Oct 12 16:45:27 2021 +0300
+
+    notification style changes based on the seen status
+
+[33mcommit 86eceb70378c767982296770df84c906dfe6162d[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 12 16:22:09 2021 +0300
+
+    edited jest config to ignore cypress
+
+[33mcommit ab16f82fbb4111c2db246228e700d51580a111b3[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 12 16:10:41 2021 +0300
+
+    fix:cypress testing
+
+[33mcommit 660aefb906c4ca8b85c9cf07700b6cbb3e1d9cd5[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 12 14:06:50 2021 +0300
+
+    minor style tweaks
+
+[33mcommit 80299cc91f77ad1f99b14a8983c5d882cc31b821[m
+Merge: b4b6409 3839942
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Tue Oct 12 14:03:30 2021 +0300
+
+    Merge pull request #14 from ZerafTechnologies/dev
+    
+    Restyle stat boards
+
+[33mcommit 38399423f6c699a21fdbad4e50b71ef8b5c1840b[m
+Merge: 9b76a0b b4b6409
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 12 14:01:03 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 9b76a0bf337bdf66c4fc5c432da63aa56ab8df15[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 12 13:59:39 2021 +0300
+
+    style: stat board restyle
+
+[33mcommit b4b64093fb1f8a4321fad93462f0279d2274b5f9[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 12 13:22:40 2021 +0300
+
+    chore: change user icon
+
+[33mcommit 7543082c71dcef140a1aa0818944b8977b4c78c5[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 12 13:17:37 2021 +0300
+
+    fix: fix type errors
+
+[33mcommit f0697a435b07d3c5f3b3a5a48d641d888e805830[m
+Merge: db30f55 308ee4e
+Author: Jabez <jabezhm@gmail.com>
+Date:   Tue Oct 12 13:03:05 2021 +0300
+
+    Merge pull request #12 from ZerafTechnologies/notificationFront
+    
+    Notification front
+
+[33mcommit 308ee4ecacbccea28b9560ec8933ab208ad3eb80[m
+Merge: 9f3b635 db30f55
+Author: Jabez <jabezhm@gmail.com>
+Date:   Tue Oct 12 13:02:57 2021 +0300
+
+    Merge branch 'master' into notificationFront
+
+[33mcommit db30f55a0734e08a3ce1d98aa21fb7c99215296b[m
+Merge: 3332a9d e9f7000
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Tue Oct 12 13:00:34 2021 +0300
+
+    Merge pull request #13 from ZerafTechnologies/dev
+    
+    Cypress installed
+
+[33mcommit 12bcf9d043902e10e5c639fd5a0ff0bbdace0804[m
+Merge: c5dd492 3332a9d
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 12 12:57:06 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 3332a9d8246e5709ad02c050c112d87e97679e85[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 12 12:55:53 2021 +0300
+
+    chore: finish restyling
+
+[33mcommit c5dd492a29476e46e3a404ccbffe5c3ef7632f5d[m
+Merge: e9f7000 d2bbf37
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 12 10:54:10 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit d2bbf3751c7ae927d58e1af359eeb8898b59f80e[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 11 23:07:56 2021 +0300
+
+    restyle homepage
+
+[33mcommit 9f3b635e8562752e05bc1500079dd0af9b77e7b9[m
+Merge: 176756f a20b2db
+Author: Elyas Demeke <46103318+Elyas-Demeke@users.noreply.github.com>
+Date:   Mon Oct 11 16:16:53 2021 +0300
+
+    Merge pull request #11 from ZerafTechnologies/fixList
+    
+    loadMore functionality
+
+[33mcommit a20b2db890f4ad2c6db26413aededf5b949768da[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Mon Oct 11 16:16:09 2021 +0300
+
+    loadMore functionality
+
+[33mcommit 176756fc22f77356cb2f1eff99553914591a6332[m
+Merge: 8bd87f0 2bc26ac
+Author: Elyas Demeke <46103318+Elyas-Demeke@users.noreply.github.com>
+Date:   Mon Oct 11 14:35:47 2021 +0300
+
+    Merge pull request #10 from ZerafTechnologies/filterNotificationByTimestamp
+    
+    Filter notification by timestamp
+
+[33mcommit 2bc26ac55f2a721a4076489ccecb31cf9767b9bf[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Mon Oct 11 14:29:40 2021 +0300
+
+    notifications sorted by time stamp on navbar
+
+[33mcommit 8bd87f0160a4022269182265db8c3a4bc2878fe0[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Mon Oct 11 14:29:26 2021 +0300
+
+    Notification load more start
+
+[33mcommit 807a3f02a3636682da82b2a12e7a945e51a73784[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Mon Oct 11 09:46:00 2021 +0300
+
+    conflict resolved
+
+[33mcommit dd18a9d34060a7faef54dde00e5710aec026bdbc[m
+Merge: 8473d05 fb10ec2
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Sat Oct 9 17:36:13 2021 +0300
+
+    seen notification functionality
+
+[33mcommit 8473d0508afdb28fcdd85ea5d381f1cdf9c14870[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Sat Oct 9 17:34:34 2021 +0300
+
+    seen notification functionality
+
+[33mcommit e9f7000bbf77459bcb2b6504b274dbad81c0e22e[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Sat Oct 9 15:43:55 2021 +0300
+
+    test:cypress setup
+
+[33mcommit fb10ec29b2775d3fd29e588e5969ac76c93de97e[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Sat Oct 9 15:11:54 2021 +0300
+
+    worked on the dismiss functionality of notifications
+
+[33mcommit 2d9f772bbe653a08a8a70a6b02b8780f68a3eb11[m
+Merge: 52f5390 2b259f6
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Sat Oct 9 14:49:51 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 2b259f6b5969780a3f075a51cb41b17666f02de4[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Sat Oct 9 11:12:31 2021 +0300
+
+    feat: profile setting and unique profile avatar
+
+[33mcommit 2163d283fbf5224d02699e3daf54855b859d1d68[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Sat Oct 9 11:07:00 2021 +0300
+
+    user notification fetching
+
+[33mcommit 4319730c335b692d65a81baf3f6b45ecc657cfb1[m
+Author: Elyas demeke <elyas@zeraftech.com>
+Date:   Sat Oct 9 11:00:46 2021 +0300
+
+    fetch users notifications
+
+[33mcommit 891cb5eb114b95172b2b55c4458d66a7b2810385[m
+Author: Ezra <ezraabate8@gmail.com>
+Date:   Sat Oct 9 10:39:56 2021 +0300
+
+    sorted out the dismiss part front end
+
+[33mcommit 52f5390e28b7f81b613060f5303712601c869443[m
+Merge: 6ea2c9b ec4033a
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Sat Oct 9 10:13:50 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit b1de4319168ac6fe87a7b06608c20ecc3d89a8f6[m
+Author: ezraabate7 <ezra@zeraftech.com>
+Date:   Fri Oct 8 12:15:32 2021 +0300
+
+    notification front end done
+
+[33mcommit ec4033ab4b7b002facf2b2e38ca973c0db1bf678[m
+Merge: f903cb6 93587a5
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Fri Oct 8 10:01:58 2021 +0300
+
+    Merge pull request #9 from ZerafTechnologies/dev
+    
+    measure pages test setup
+
+[33mcommit 6ea2c9ba7f0f9f1f93346b6301a562469332d186[m
+Merge: 93587a5 f903cb6
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Oct 7 15:50:24 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit f903cb6d5057dca02b181f5d3d1bb41b2164a9d0[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Oct 7 14:03:39 2021 +0300
+
+    fix: change 'home' to 'dashboard' in nav and file sys
+
+[33mcommit 93587a5a64a8a735d77bf83aa38ff3be9d5a1f9e[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Oct 6 16:47:37 2021 -0700
+
+    measure pages test setup
+
+[33mcommit c52bed5dbe38169e4ea0d0df8a5d61159d608be5[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Oct 6 15:56:52 2021 -0700
+
+    test folder change,forgetpassword test
+
+[33mcommit c4a8507b0f7fd4604906c41e4636cddcc98e2521[m
+Merge: 9d17187 d14ed81
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Oct 6 15:53:26 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 9d17187d4a8173322cc4820db12e938c345a1c5e[m
+Merge: 0d6a4d3 0c0b1ce
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Oct 6 12:23:55 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit d14ed81c9d3c11741f31fb4fc7612bf8c2d9dfbc[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Oct 6 13:38:14 2021 +0300
+
+    chore: finish state mgmt and send emissions data to backend (firestore) along with measure date and user id
+
+[33mcommit 0c0b1ce0b29c5f1807747e1e9ff589c155e63701[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Oct 6 11:52:27 2021 +0300
+
+    fix: fix var name clashes
+
+[33mcommit b237ca26c17fb8a8bb6f9f887cda677d44ae5635[m
+Merge: 0d5e412 8fcf0c1
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Oct 6 11:49:11 2021 +0300
+
+    fix: fix merge conflict
+
+[33mcommit 8fcf0c18daa57959137512c9055812bee32fe66a[m
+Merge: 85a522b 75754d9
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Wed Oct 6 11:18:17 2021 +0300
+
+    Merge pull request #8 from ZerafTechnologies/dev
+    
+    chore:state mgmt for household,shopping and transportation
+
+[33mcommit 0d5e41222e725745a9d547040684391e1af4e2cb[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Oct 6 09:23:19 2021 +0300
+
+    chore: state management for shopping data
+
+[33mcommit 75754d9164470c425112f66eb07fe6677d2edafd[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Oct 5 17:20:36 2021 +0300
+
+    chore:state mgmt for household,shopping and transportation
+
+[33mcommit 85a522bdd83b5badcc85a33f69397ff70b8b4b1f[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 5 15:00:01 2021 +0300
+
+    style: restyle measure components
+
+[33mcommit fc03d1d28905ef4a7f529501d9f3a84cf519224c[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 5 14:47:45 2021 +0300
+
+    style: restyle finish measurement component
+
+[33mcommit 95c83b8a49d6085a482c5e945fcbdb9916f401e5[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 5 14:04:18 2021 +0300
+
+    chore: state mgmt implemented for food data, restyle components
+
+[33mcommit 374992b69eb3332e08a774c18d13328fa3f91f8e[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 5 11:29:02 2021 +0300
+
+    chore: setup state management for measurement flow,
+    style: restyle emissions  input components
+
+[33mcommit 3d72142e9cedf0b65b8f0ff0a0c283f1a5bea623[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Tue Oct 5 10:25:42 2021 +0300
+
+    chore: standardize emissions measurement forms
+
+[33mcommit 0d6a4d388aeba9b18e7b097f1e187ad8cb74ca95[m
+Merge: b6b5289 195c7b6
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Mon Oct 4 13:20:35 2021 -0700
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit b6b528907629e30d6c4e8f94ed84381fbd9d547d[m
+Merge: 98ab1f1 fa5983c
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Mon Oct 4 13:20:19 2021 -0700
+
+    Merge branch 'dev' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 3fbfc55dd1a691dfec150ec8f3c069bad6009998[m
+Merge: 86333f9 195c7b6
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 4 11:01:56 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into master
+
+[33mcommit 86333f9ebc6c5b5ee29be2b085315ce6fe3061a2[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 4 11:01:37 2021 +0300
+
+    chore: household emissions measurement page
+
+[33mcommit 195c7b629220022583fc902f77cd2b828e5b4bea[m
+Merge: 98ab1f1 fa5983c
+Author: Jabez <jabezhm@gmail.com>
+Date:   Mon Oct 4 10:19:55 2021 +0300
+
+    Merge pull request #7 from ZerafTechnologies/dev
+    
+    test: login, signup component test
+
+[33mcommit 98ab1f1540e47643b8c3599a9ffa18aedab0238a[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 4 09:37:33 2021 +0300
+
+    chore: add measure section components and style active measure sections
+
+[33mcommit bdedec77ab3272fdd9a16917924ee01d6453d6aa[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 4 08:55:51 2021 +0300
+
+    chore: add dashboard route
+
+[33mcommit fef0671e13dd5900b7624c13e871bc7b19dd6fcc[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Mon Oct 4 08:37:48 2021 +0300
+
+    style: add image wrapper for profile pic
+
+[33mcommit 8ffdb7252959a60d1053e6cbcbaa098a1db0bc4f[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Sat Oct 2 10:26:49 2021 +0300
+
+    style: restyle the home page (auth)
+
+[33mcommit 2ec6a358d5adae827a975795a0f277b299b55e39[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Fri Oct 1 11:16:37 2021 +0300
+
+    restyle buy/sell credits section
+
+[33mcommit fa5983c9cd3741a090159203bac9e8dd3b804440[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Sep 30 15:27:43 2021 +0300
+
+    test:login,signup component test
+
+[33mcommit 816fe80b1ef1fc74798db012c438f8a1af6b217d[m
+Merge: 91e5362 7df4633
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Sep 30 15:24:37 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 7df463349805707d5e295945cdfaaba69c386584[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Thu Sep 30 15:17:46 2021 +0300
+
+    chore: add measurement and setting pages (partial)
+
+[33mcommit 91e5362c862510565c559b07c62bd5685d3dba2e[m
+Merge: 5f65cfc 9a010be
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Sep 30 13:38:21 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 9a010be6702a756b11dec09b2ea28c61a2848886[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Thu Sep 30 11:37:36 2021 +0300
+
+    chore: setup nested pages for dashboard
+
+[33mcommit 5f65cfc834d5027b3d592ce178895cc43d0aa48c[m
+Merge: 2315f10 ca96591
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Sep 30 10:27:32 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit ca96591d927ab446b8d348501f7cfa27e2dd18b9[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Thu Sep 30 10:25:36 2021 +0300
+
+    fix: fix actions script
+
+[33mcommit 3b5fd9fea41d51aa3a1717b2f41d9a919514a787[m
+Merge: 7d5235e cc48424
+Author: yabetszeraf <87754072+yabetszeraf@users.noreply.github.com>
+Date:   Thu Sep 30 10:12:51 2021 +0300
+
+    Merge pull request #6 from ZerafTechnologies/dev
+    
+    Dev
+
+[33mcommit 7d5235e718ae53178c7f053506a1dde686bb4250[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Thu Sep 30 10:09:54 2021 +0300
+
+    chore: add loading component, restyle some pages
+
+[33mcommit 2315f109e0d867df40999fe37262faed9c83b970[m
+Merge: ec59fff 6121ebc
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Thu Sep 30 09:42:41 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 6121ebc81537bedd6cebdf376e0d657419c1ca96[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Sep 29 11:21:50 2021 +0300
+
+    fix: min width fixed
+
+[33mcommit 7add314f792b57deda2266ee7f0b1552e974c89a[m
+Merge: 24119c7 4580603
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Sep 29 09:24:12 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into master
+
+[33mcommit 24119c798b7f872444ab6c159efb55ea780142e5[m
+Author: jabezX <jabezhm@gmail.com>
+Date:   Wed Sep 29 09:24:03 2021 +0300
+
+    squash
+
+[33mcommit ec59fff40b796193ba1c9de774e8fc4c2c483acb[m
+Merge: 5817c19 4580603
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 14:45:10 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 4580603de82185fc2ff5ab630d8123578503198e[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 14:43:52 2021 +0300
+
+    chore: notifications page
+
+[33mcommit 5817c194e1e8468c190bacfedaf2ce6c41375205[m
+Merge: f557afe d17c122
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 14:30:30 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit d17c1223acb8df58c134aff19bce014546c8ad94[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 14:29:47 2021 +0300
+
+    style: restyle home, auth-nav
+
+[33mcommit f557afe25af0a7459ea85d673f4f3bbc6849b5e0[m
+Merge: cc48424 c46a9d3
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 14:21:13 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit c46a9d374737af71b227a52008b3cddcd0ae8fa0[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 13:28:23 2021 +0300
+
+    style: restyle auth-nav + restructure routes for child components
+
+[33mcommit 65b5a22ab763a077570f6341774945f5b66483e7[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 13:04:59 2021 +0300
+
+    chore: inner-nav for auth homepage (dashboard)
+
+[33mcommit cc484247fa6a698b0ef540ed6e35802f057723f9[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 12:58:34 2021 +0300
+
+    conflict fixed
+
+[33mcommit a5a537f5410852cb85c60c70c9f5ab8501d8e117[m
+Merge: 6e02894 637b4ad
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 12:56:41 2021 +0300
+
+    Merge branch 'dev' of https://github.com/ZerafTechnologies/greencheddar-mvp into dev
+
+[33mcommit 637b4ad656c03f1b0629c96b8c245382cea3bd2a[m
+Merge: c606f70 0371db6
+Author: waleZeraf <88833481+waleZeraf@users.noreply.github.com>
+Date:   Tue Sep 28 12:55:11 2021 +0300
+
+    Merge branch 'master' into dev
+
+[33mcommit 6e02894e09481e6ceb25bd784476e17e23af9e80[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 12:44:07 2021 +0300
+
+    fix
+
+[33mcommit 0371db6f29214d4f919fe9c316b2d87a0c963d4f[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 11:24:21 2021 +0300
+
+    chore: auth home page + restyle auth layout
+
+[33mcommit c606f70d956aa595d2ec828670e9b0a9cc0644b6[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 11:19:16 2021 +0300
+
+    fix:branch conflict
+
+[33mcommit 0b9654854955230d199c01278b45e426b4240818[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 11:10:08 2021 +0300
+
+    fix:git conflict
+
+[33mcommit 785f5f967671c6494217fb68eaee6978d2928511[m
+Author: waleZeraf <walelgndagne@gmail.com>
+Date:   Tue Sep 28 11:02:17 2021 +0300
+
+    feat:forget password reset link
+
+[33mcommit 52bd78cfbcbe679388158a3ffe507deff6abe4b3[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 10:55:40 2021 +0300
+
+    style: restyle login page + change forgot password page layout to guest
+
+[33mcommit fc05896a9599aab6bfb3aab21941021c0bb0134f[m
+Merge: 6517003 f98c455
+Author: yabetszeraf <87754072+yabetszeraf@users.noreply.github.com>
+Date:   Tue Sep 28 10:48:55 2021 +0300
+
+    Merge pull request #4 from ZerafTechnologies/dev
+    
+    chore: forget password page added
+
+[33mcommit 6517003a4b4018082534ace3f287e4c429e3d056[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 28 10:48:03 2021 +0300
+
+    chore: home page and minor restyles
+
+[33mcommit 62509eaaedcc1ad23d8d66a3fbaf3db3c7e25526[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Sat Sep 25 15:33:29 2021 +0300
+
+    chore: make navbar fixed
+
+[33mcommit 8c7637791bb1e82024c4697d769a00aa902ae878[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Sat Sep 25 14:53:59 2021 +0300
+
+    chore: home-hero section and footer
+
+[33mcommit b52b02799ac2aff05bfe4adc4439d95abfdddc5d[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Sat Sep 25 13:26:21 2021 +0300
+
+    chore: show active user's name in account section
+
+[33mcommit f98c455ea047827fb0f332f39e3a0377c5f88926[m
+Author: waledagne <walelgndagne@gmail.com>
+Date:   Thu Sep 23 17:12:34 2021 +0300
+
+    chore:forget password page added
+
+[33mcommit 63c50eab5ed1317c68f32acb51c4c10361a72c6a[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Thu Sep 23 15:29:25 2021 +0300
+
+    feat: sign up and verify email
+
+[33mcommit df34cc45cf600c84542d22b23743400c6641873f[m
+Merge: f0c8be9 232bfe6
+Author: yabetszeraf <87754072+yabetszeraf@users.noreply.github.com>
+Date:   Thu Sep 23 12:39:48 2021 +0300
+
+    Merge pull request #3 from ZerafTechnologies/dev
+    
+    chore: signup view added
+
+[33mcommit 232bfe6b6433493cc5c07a7ba470684c9dbb86e2[m
+Author: waleZeraf <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Sep 22 16:24:27 2021 -0700
+
+    fix:wrong last commit
+
+[33mcommit f7c6c0221efe3ee90d9beff1073c1d6cfdc4563d[m
+Author: waledagne <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Sep 22 16:17:21 2021 -0700
+
+    added firestore config
+
+[33mcommit 09a6b793d6d5402c47e6b37c05a3f82ab6b4139d[m
+Author: waledagne <34514614+waledagne@users.noreply.github.com>
+Date:   Wed Sep 22 15:52:13 2021 -0700
+
+    chore: signup view added
+
+[33mcommit f0c8be984ea75bdbdc3f039360209a1814b1bde0[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 21 15:22:00 2021 +0300
+
+    feat: basic authentication (signin, signout, auth and guest middleware/guards
+
+[33mcommit 2a46a769570912bac092f410082e2e0807f6031d[m
+Merge: 427dd93 921963e
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 21 13:25:12 2021 +0300
+
+    Merge branch 'master' of https://github.com/ZerafTechnologies/greencheddar-mvp
+
+[33mcommit 427dd93788b445fa9eb2db0535e5e67c8b86d031[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 21 13:25:02 2021 +0300
+
+    chore: signin page added
+
+[33mcommit 921963eabfaa3fa1fcd086b9f4239f913c565473[m
+Merge: a113eaf 0133852
+Author: yabetszeraf <87754072+yabetszeraf@users.noreply.github.com>
+Date:   Tue Sep 21 13:22:51 2021 +0300
+
+    Merge pull request #2 from ZerafTechnologies/dev
+    
+    chore:firbase installed and configured
+
+[33mcommit 0133852246080b8b46c5a973c3fa0cb6e4b5c589[m
+Author: waledagne <walelgndagne@gmail.com>
+Date:   Tue Sep 21 13:19:05 2021 +0300
+
+    fix:firebase package
+
+[33mcommit 0024305a9b53adba62b4b9def2052da808f52093[m
+Merge: a113eaf 2219b62
+Author: waledagne <walelgndagne@gmail.com>
+Date:   Tue Sep 21 12:45:27 2021 +0300
+
+    fix:git conflict
+
+[33mcommit a113eaf30e2e6cf0e4d355a32d838501c5e30268[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 21 11:15:30 2021 +0300
+
+    chore: add global style, fix: bg
+
+[33mcommit 2219b62bee3a0f20eba10d7d2f7132c9beaf2aa5[m
+Author: waledagne <walelgndagne@gmail.com>
+Date:   Tue Sep 21 11:09:47 2021 +0300
+
+    chore:firbase installed and configured
+
+[33mcommit 3e542a9daa82045c95d985763c4739e7af15e4bf[m
+Author: yabetszeraf <yabets@zeraftech.com>
+Date:   Tue Sep 21 10:59:34 2021 +0300
+
+    install daisyUI, create navbar
+
+[33mcommit 76557306dd66cf4997bbbe7546d74b4ad013cc92[m
+Merge: 44f5371 a4e7400
+Author: yabetszeraf <87754072+yabetszeraf@users.noreply.github.com>
+Date:   Thu Sep 16 14:41:30 2021 +0300
+
+    Merge pull request #1 from ZerafTechnologies/dev
+    
+    reset project
+
+[33mcommit a4e740048df69869cf36a8f5092bcca10a62eb2a[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Sep 16 14:31:35 2021 +0300
+
+    reset project
+
+[33mcommit 44f537179ce4f10cece55adca2dc3c40ce380413[m
+Author: User 1 <jabezhm@gmail.com>
+Date:   Thu Sep 16 14:00:36 2021 +0300
+
+    initial commit
